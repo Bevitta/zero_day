@@ -1,1 +1,1 @@
-coding on my *local* _local_ computer
+coding on my *local* computer
